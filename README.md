@@ -1,6 +1,6 @@
 ## Hi! My name is Rafaela Neves 😸
 
-- 👩‍💻 I’m currently learning Java
+- 👩‍💻
 
 <div>
   <a href="https://beacons.ai/rafxhs"></a>
