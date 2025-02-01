@@ -17,7 +17,7 @@
   <img align="center" alt="Rafa-Figma" height="30" width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png">
 </div>
 
-<h4>💻 My social networks</h4>
+<h4>📫 Contact</h4>
 
 <div>
    <a href="https://www.instagram.com/rafxhs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
