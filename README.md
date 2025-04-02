@@ -1,20 +1,21 @@
-## Hi! My name is Rafaela 😸
+## Olá! Meu nome é Rafaela 😸
 
-<h4>Internet Systems Graduate at the Federal Institute of Pernambuco.</h4>
+- Estudante de Sistemas para Internet | IFPE.
 
 ##
 
-<h4>⚙️ My Stack</h4>
+<h4>⚙️ Ferramentas e Tecnologias</h4>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
   <img align="center" alt="Rafa-Figma" height="30" width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png">
 </div>
 
-<h4>📫 Contact</h4>
+<h4>📫 Conexões</h4>
 
 <div>
    <a href="https://www.instagram.com/rafxhs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
