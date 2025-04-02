@@ -1,8 +1,10 @@
 ## Hi! My name is Rafaela 😸
 
-## Internet Systems Graduate at the Federal Institute of Pernambuco.
+## 
 
-## <h4>⚙️ My Stack</h4>
+<h5>Internet Systems Graduate at the Federal Institute of Pernambuco.</h5>
+
+<h4>⚙️ My Stack</h4>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
