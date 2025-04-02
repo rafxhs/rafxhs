@@ -1,6 +1,7 @@
 ## Olá! Meu nome é Rafaela 😸
 
-- Estudante de Sistemas para Internet | IFPE.
+- Estudante de Sistemas para Internet | IFPE
+- Estudando UI/UX
 
 ##
 
@@ -20,6 +21,7 @@
 <div>
    <a href="https://www.instagram.com/rafxhs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaela-neves-346535219/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.behance.net/rafaelaneves16/" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"></a>
 </div>
 
           
