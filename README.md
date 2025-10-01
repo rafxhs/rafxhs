@@ -1,6 +1,7 @@
 ## Olá! Meu nome é Rafaela 😸
 
 - Estudante de Sistemas para Internet | IFPE
+- Desenvolvedora em formação.
 - Estudando UI/UX
 
 ##
